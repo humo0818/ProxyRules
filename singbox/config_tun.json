@@ -24,6 +24,7 @@
       {"rule_set": "geosite-cn", "server": "localDns"},
       {"clash_mode": "direct", "server": "localDns"},
       {"clash_mode": "global", "server": "proxyDns"},
+      {"rule_set": "AWAvenue-Ads-Rule", "server": "block"}
       {"rule_set": "geosite-geolocation-!cn", "server": "proxyDns"}
     ],
     "final": "localDns",
@@ -123,4 +124,3 @@
     ]
   }
 }
-

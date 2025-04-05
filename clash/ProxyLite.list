@@ -1,7 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,xialailai.fun
+# DOMAIN-SUFFIX,xialailai.fun
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
